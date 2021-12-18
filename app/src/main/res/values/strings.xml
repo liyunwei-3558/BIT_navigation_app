@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">校园导航</string>
+    <string name="large_text">
+        "正在规划……"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
